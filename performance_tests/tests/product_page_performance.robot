@@ -3,7 +3,7 @@ Resource    ../resources/performance_lib.robot
 Suite Setup    Start Performance Session
 
 *** Variables ***
-${THRESHOLD}    2.5
+${THRESHOLD}    2
 
 *** Test Cases ***
 Product Page Load Under Threshold
